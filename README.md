@@ -3,4 +3,4 @@ Odoo Plus Edition.
 
 ## Edition Features
 * Provide a backend UI similar to the Enterprise Edition, suitable for mobile devices.
-* Contains EChart for making more powerful dashboards.
+* Contains ECharts for making more powerful dashboards.
